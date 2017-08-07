@@ -19,6 +19,10 @@ body {
 .img-medium {
     height: 500px;
 }
+
+.tophead {
+    height: 200px;
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
