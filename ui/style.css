@@ -25,11 +25,12 @@
  .tophead {
      height: 50px;
      color: red;
+     left:50px;
  }
  .topheader {
       position: fixed;
       top : 0;
-      left : 50px;
+      left : 0;
       width:100%;
  
   }
