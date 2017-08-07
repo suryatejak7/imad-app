@@ -47,8 +47,8 @@
  
  /* Change the color of links on hover */
  .topnav a:hover {
-     background-color: skyblue;
-     color: black;
+     background-color: white;
+     color: skyblue;
  }
  
  /* Add a color to the active/current link */
