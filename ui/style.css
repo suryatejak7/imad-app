@@ -26,20 +26,19 @@
       position: fixed;
       top : 0;
       left : 0;
- +    background-color: blue;
       width:100%;
  
   }
   /* Add a black background color to the top navigation */
   .topnav {
-     background-color: skyblue;
+     background-color: #333;
      overflow: hidden;
  }
  /* Style the links inside the navigation bar */
  .topnav a {
      float: left;
      display: block;
-     color: #f2f2f2;
+     color: skyblue;
      text-align: center;
      padding: 17px 19px;
      text-decoration: none;
