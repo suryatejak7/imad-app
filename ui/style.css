@@ -25,6 +25,7 @@
  .tophead {
      height: 50px;
      color: red;
+     text-align: center;
  }
  .topheader {
       position: fixed;
