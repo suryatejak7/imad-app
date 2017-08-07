@@ -19,6 +19,10 @@
      height: 500px;
  }
  
+ .toplogo {
+     height:25px;
+ }
+ 
  .tophead {
      height: 50px;
      color: red;
