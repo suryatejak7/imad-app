@@ -48,13 +48,13 @@ body {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-    background-color: skyblue;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a:active {
-    background-color: #4CAF50;
+    background-color: skyblue;
     color: white;
 }
 
